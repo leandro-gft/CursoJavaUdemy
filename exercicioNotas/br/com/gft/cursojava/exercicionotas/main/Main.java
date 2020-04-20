@@ -1,9 +1,9 @@
-package br.gft.com.cursojava.exercicionotas.main;
+package br.com.gft.cursojava.exercicionotas.main;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import br.gft.com.cursojava.exercicionotas.entities.Student;
+import br.com.gft.cursojava.exercicionotas.entities.Student;
 
 public class Main {
 

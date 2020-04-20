@@ -1,4 +1,4 @@
-package br.gft.com.cursojava.exercicioestoque.entities;
+package br.com.gft.cursojava.exercicioestoque.entities;
 
 public class Product {
 

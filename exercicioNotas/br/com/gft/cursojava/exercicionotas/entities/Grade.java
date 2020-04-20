@@ -1,4 +1,4 @@
-package br.gft.com.cursojava.exercicionotas.entities;
+package br.com.gft.cursojava.exercicionotas.entities;
 
 public class Grade {
 	

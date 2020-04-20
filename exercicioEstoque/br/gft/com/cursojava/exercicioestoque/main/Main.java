@@ -3,7 +3,7 @@ package br.gft.com.cursojava.exercicioestoque.main;
 import java.util.Locale;
 import java.util.Scanner;
 
-import br.gft.com.cursojava.exercicioestoque.entities.Product;
+import br.com.gft.cursojava.exercicioestoque.entities.Product;
 
 public class Main {
 	public static void main(String[] args) {
