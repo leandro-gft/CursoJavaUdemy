@@ -6,5 +6,6 @@
 	<classpathentry kind="src" path="aulaList"/>
 	<classpathentry kind="src" path="exercicioFixacaoModulo10"/>
 	<classpathentry kind="src" path="exercicioFixacaoModulo9"/>
+	<classpathentry kind="src" path="exercicioFixacaoEnum"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
