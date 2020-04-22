@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="exercicioFixacaoModulo9"/>
 	<classpathentry kind="src" path="exercicioFixacaoEnum"/>
 	<classpathentry kind="src" path="exercicioFixacaoModulo13"/>
+	<classpathentry kind="src" path="exercicioFixacaoPolimorfismo"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
