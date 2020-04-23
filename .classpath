@@ -11,5 +11,6 @@
 	<classpathentry kind="src" path="exercicioFixacaoPolimorfismo"/>
 	<classpathentry kind="src" path="exercicioFixacaoModulo14"/>
 	<classpathentry kind="src" path="exercicioFixacaoExcecoes"/>
+	<classpathentry kind="src" path="exercicioFixacaoModulo17"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
