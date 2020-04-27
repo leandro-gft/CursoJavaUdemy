@@ -43,7 +43,6 @@ public class Main {
 				double price = Double.parseDouble(fields[1]);
 				int quantity = Integer.parseInt(fields[2]);
 
-				list.add(new Product(name, price, quantity));
 
 				itemCsv = br.readLine();
 			}
