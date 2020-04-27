@@ -13,5 +13,8 @@
 	<classpathentry kind="src" path="exercicioFixacaoExcecoes"/>
 	<classpathentry kind="src" path="exercicioFixacaoModulo17"/>
 	<classpathentry kind="src" path="exercicioResolvidoInterface"/>
+	<classpathentry kind="src" path="exercicioFixacaointerface"/>
+	<classpathentry kind="src" path="exercicioFixacaoSet"/>
+	<classpathentry kind="src" path="execicioFixacaoMap"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
